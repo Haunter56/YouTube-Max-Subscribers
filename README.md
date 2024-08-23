@@ -70,7 +70,7 @@ If for any reason your API key gets shared, you can always delete the old one an
 
 ## **Import Code**
 
-`Import code goes here`
+[Import Code](https://github.com/Haunter56/YouTube-Max-Subscribers/blob/main/youtubeSubscriberCounter.sb)
 
 ## Import Streamer.bot Actions
 
